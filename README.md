@@ -2,27 +2,22 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
-[![tests](https://github.com/billwallis/python-template/actions/workflows/tests.yaml/badge.svg)](https://github.com/billwallis/python-template/actions/workflows/tests.yaml)
-[![coverage](https://raw.githubusercontent.com/billwallis/python-template/refs/heads/main/coverage.svg)](https://github.com/dbrgn/coverage-badge)
+[![tests](https://github.com/billwallis/advent-of-code-templater/actions/workflows/tests.yaml/badge.svg)](https://github.com/billwallis/advent-of-code-templater/actions/workflows/tests.yaml)
+[![coverage](https://raw.githubusercontent.com/billwallis/advent-of-code-templater/refs/heads/main/coverage.svg)](https://github.com/dbrgn/coverage-badge)
 
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/billwallis/python-template/main.svg)](https://results.pre-commit.ci/latest/github/billwallis/python-template/main)
-[![GitHub last commit](https://img.shields.io/github/last-commit/billwallis/python-template)](https://shields.io/badges/git-hub-last-commit)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/billwallis/advent-of-code-templater/main.svg)](https://results.pre-commit.ci/latest/github/billwallis/advent-of-code-templater/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/billwallis/advent-of-code-templater)](https://shields.io/badges/git-hub-last-commit)
 
 </span>
 
 ---
 
-# Python Template Repo
+# Advent of Code Templater
 
-Not for public consumption; this is just for me (@billwallis).
+CLI tool for generating Advent of Code solution files from a template.
 
-After copying, find and replace on:
-
-- `python-template` -> new repo name
-- `python_template` -> new package name
-
-## Quick start
+## Contributing
 
 Install [uv](https://docs.astral.sh/uv/getting-started/installation/) and then install the dependencies:
 

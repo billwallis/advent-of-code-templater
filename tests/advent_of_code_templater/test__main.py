@@ -1,4 +1,4 @@
-from python_template import main
+from advent_of_code_templater import main
 
 
 def test__main_can_be_called():
